@@ -10,11 +10,11 @@ version:          1.0
 gitbook_version:  3.2.3
 
 url:              'https://rrhlrmrr.github.io'
-baseurl:          '/jekyll-gitbook'
+baseurl:          '/jekyll-book'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
-remote_theme: sighingnow/routes
+remote_theme: sighingnow/jekyll-book
 
 toc:
   enabled: true
