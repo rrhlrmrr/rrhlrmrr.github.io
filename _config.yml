@@ -4,13 +4,13 @@ longtitle:        수익형 블로그
 author:           rrhlrmrr
 email:            rrhlrmrr@gmail.com
 description: >
-  Build Jekyll site with the GitBook style.
+  수익형 블로그에 모든 것
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://rrhlrmrr.github.io/'
-baseurl:          '/jekyll-gitbook'
+url:              'https://rrhlrmrr.github.io'
+baseurl:          '/'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
